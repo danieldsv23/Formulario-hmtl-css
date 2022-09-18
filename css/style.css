@@ -1,0 +1,33 @@
+body {
+
+    width: 100%;
+    height: 100vh;
+    background-image: url(/img/a40c2e5391501100c8316e549e9ec38a.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+form {
+    background-color: #fcfcfc;
+    max-width: 500px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.60);
+
+
+}
+
+.btn {
+    margin-top: 2px;
+    text-align: left;
+
+}
